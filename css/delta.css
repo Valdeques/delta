@@ -1,0 +1,68 @@
+@font-face {
+	font-family: 'kaleko-heavy';
+	src: url("../fonts/Kaleko/Kaleko205-Heavy.ttf");
+	font-size: 1em;
+}
+
+@font-face {
+	font-family: 'kaleko-light';
+	src: url("../fonts/Kaleko/Kaleko205-Light.ttf");
+	font-size: 1em;
+}
+
+@font-face {
+	font-family: 'kaleko-bold';
+	src: url("../fonts/Kaleko/Kaleko205-Bold.ttf");
+	font-size: 1em;
+}
+
+section .container{
+	
+}
+.row{
+	margin:0;
+	text-align: center;
+}
+
+.row-header{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #B0B0B0;
+}
+ img{
+width: 30%;
+
+
+}
+
+.content{
+	text-align: center;
+	padding-top: 6%;
+	width:100%;
+	height:100%;
+	
+}
+
+.content img{
+	width: 60%;
+	margin-bottom: 20px;
+}
+
+.content h2{
+	font-size: 215%%;
+	font-family: 'kaleko-bold';
+	line-height: 150%;
+}
+.content h1{
+	color:red;
+	margin-top:50px;
+	font-size: 530%;
+	font-family: 'kaleko-heavy';
+
+
+}
+
+.content hr{
+	width: 70%;
+	border-bottom: 4px solid #444;
+}

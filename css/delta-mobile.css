@@ -1,0 +1,146 @@
+
+@media (min-width: 481px) and (max-width: 768px) {
+
+section .container{
+	
+}
+.row{
+	margin:0;
+}
+
+.row-header{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #B0B0B0;
+}
+ img{
+width: 70%;
+
+
+}
+
+.content{
+	padding-top: 10%;
+	width:100%;
+	height:100%;
+	
+}
+
+.content img{
+	margin-bottom: 20px;
+}
+
+.content h2{
+	color:#444;
+	font-size: 215%%;
+	font-family: 'kaleko-bold';
+	line-height: 150%;
+}
+.content h1{
+	color:red;
+	margin-top:50px;
+	font-size: 330%;
+	font-family: 'kaleko-heavy';
+
+
+}
+.content hr{
+	width: 70%;
+	border-bottom: 2px solid #444;
+}
+
+}
+
+@media only screen and (max-width: 480px) {
+.row{
+	margin:0;
+}
+.row-header{
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #B0B0B0;
+}
+ img{
+width: 100%;
+
+}
+
+.content{
+	padding-top: 10%;
+	width:100%;
+	height:100%;
+	
+}
+
+.content img{
+	margin-bottom: 20px;
+}
+
+.content h2{
+	font-size: 150%;
+	font-family: 'kaleko-bold';
+	line-height: 150%;
+}
+.content h1{
+	color:red;
+	margin-top: 15px;
+	font-size: 260%;
+	font-family: 'kaleko-heavy';
+
+}
+
+.content hr{
+	width: 70%;
+	border-bottom: 2px solid #444;
+}
+}
+
+@media only screen(max-height: 480px) and (max-width: 320px) {
+.row{
+	margin:0;
+}
+.row-header{
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #B0B0B0;
+}
+ img{
+width: 100%;
+
+}
+
+.content{
+	padding-top: 10%;
+	width:100%;
+	height:100%;
+	
+}
+
+.content img{
+	margin-bottom: 10px;
+}
+
+.content h2{
+	font-size: 150%;
+	font-family: 'kaleko-bold';
+	line-height: 150%;
+}
+.content h1{
+	color:red;
+	font-size: 260%;
+	font-family: 'kaleko-heavy';
+	margin-top: 15px!important;
+
+}
+
+.content hr{
+	width: 70%;
+	border-bottom: 2px solid #444;
+}
+
+}
+
+
+
